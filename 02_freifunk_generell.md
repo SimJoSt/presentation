@@ -30,11 +30,11 @@ erweiterbar, solange diese 3 nicht verletzt werden
 ###### Quelle: [picopeer.net](http://www.picopeer.net/PPA-de.shtml)
 
 
-# Freifunk
-## ist kein ...
+# vorweg:
+## Freifunk ist kein kostenloser ...
 * ... Internetanbieter
 * ... Hotspotanbieter
-## ist nicht ...
+## und nicht ...
 * ... kommerziell
 * ... gewinnorientiert
 

@@ -10,7 +10,9 @@ sie bilden eine gro&szlig;e "Wolke", eine "Mesh"
 
 
 ## nicht alle Knoten m&uuml;ssen sich gleichzeitig sehen
-sie kommunizieren &uuml;ber die anderen Knoten, Daten werden weitergeleitet
+sie kommunizieren &uuml;ber die anderen Knoten
+
+Daten werden weitergeleitet
 
 
 ## jede Art von Datenkommunikation kann dar&uuml;ber get&auml;tigt werden
@@ -24,7 +26,7 @@ sie kommunizieren &uuml;ber die anderen Knoten, Daten werden weitergeleitet
 
 # Problem:
 ## gr&ouml;&szlig;ere Fl&auml;chen
-nicht alle Knoten sind mit dem Mesh verbunden
+nicht alle Knoten sind mit dem Mesh verbunden, da sie nicht in Funkreichweite sind
 
 
 # L&ouml;sung:

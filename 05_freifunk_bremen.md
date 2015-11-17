@@ -16,7 +16,7 @@ erstes dokumentiertes Treffen am 20.12.2013
 # Form
 * noch kein Verein
 * loser Zusammenschluss von Aktiven
-* offen für jeden
+* offen f&uuml;r jeden
 
 
 # aktuelle Daten
