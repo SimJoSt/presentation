@@ -90,7 +90,7 @@ in Zukunft evlt. im Gesetz verankert
 ## Providerprivileg ist die bevorzugte L&ouml;sung
 solange die St&ouml;rerhaftung besteht
 
-bei Abschaffung w&uulm;rde jeder Knoten seinen eigenen Uplink direkt verwenden
+bei Abschaffung w&uuml;rde jeder Knoten seinen eigenen Uplink direkt verwenden
 
 
 # nicht alle Dienste
