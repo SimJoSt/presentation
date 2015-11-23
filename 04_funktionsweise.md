@@ -30,8 +30,9 @@ nicht alle Knoten sind mit dem Mesh verbunden, da sie nicht in Funkreichweite si
 
 ## L&ouml;sung:
 ### Gateways schlie&szlig;en die L&uuml;cke
-* Knoten mit Internetzugang, verbinden sich mit Gateways
-* kommunizieren so mit allen anderen Knoten
+Knoten mit Internetzugang, verbinden sich mit Gateways
+
+kommunizieren so mit allen anderen Knoten
 
 
 # fehlendes Internet
@@ -45,8 +46,9 @@ Knoten mit einer Verbindung zu den Gateways, kommen &uuml;ber sie ins Internet
 
 # St&ouml;rerhaftung
 ## Problem:
-* kein Problem f&uuml;r Knotenbetreiber, da sie keinen Internetzugang stellen
-* Problem f&uuml;r Gatewaybetreiber, alle Missbrauchsanfragen landen bei ihnen
+kein Problem f&uuml;r Knotenbetreiber, da sie keinen Internetzugang stellen
+
+Problem f&uuml;r Gatewaybetreiber, alle Missbrauchsanfragen landen bei ihnen
 
 ## L&ouml;sungsans&auml;tze
 * Verschleierung
@@ -86,11 +88,14 @@ in Zukunft evlt. im Gesetz verankert
 
 # Fazit:
 ## Providerprivileg ist die bevorzugte L&ouml;sung
+solange die St&ouml;rerhaftung besteht
+
+bei Abschaffung w&uulm;rde jeder Knoten seinen eigenen Uplink direkt verwenden
 
 
 # nicht alle Dienste
 ## Problem:
-Im Bremer Freifunk-Netz kann ich nur Ger&auml;te und Dienste aus Bremen erreichen.
+Im Bremer Freifunk-Netz kann ich nur Ger&auml;te und Dienste aus Bremen erreichen
 
 ## L&ouml;sung:
 ### InterCity-VPN
