@@ -27,7 +27,7 @@
 
 # Funktionsweise
 * Netz
-* große F&auml;chen
+* gro&szlig;e F&auml;chen
 * fehlendes Internet
 * St&ouml;rerhaftung
 * nur Dienste aus der eigenen Community
