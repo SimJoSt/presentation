@@ -30,7 +30,7 @@
 * gro&szlig;e F&auml;chen
 * fehlendes Internet
 * St&ouml;rerhaftung
-* nur Dienste aus der eigenen Community
+* nicht alle Dienste
 
 
 # Freifunk Bremen

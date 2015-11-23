@@ -40,15 +40,13 @@ jeder, der Freifunk nutzt, kann gleichzeitig keine Dienste aus dem Internet verw
 
 ## L&ouml;sung:
 ### Internetzugang an Gateways
-Knoten mit einer Verbindung zu den Gateways, kommen ins Internet
+Knoten mit einer Verbindung zu den Gateways, kommen &uuml;ber sie ins Internet
 
 
 # St&ouml;rerhaftung
 ## Problem:
-* kein Problem f&uuml;r Knotenbetreiber
-  * sie stellen keinen Internetzugang
-* Problem f&uuml;r Gatewaybetreiber
-  * alle Missbrauchsanfragen landen bei ihnen
+* kein Problem f&uuml;r Knotenbetreiber, da sie keinen Internetzugang stellen
+* Problem f&uuml;r Gatewaybetreiber, alle Missbrauchsanfragen landen bei ihnen
 
 ## L&ouml;sungsans&auml;tze
 * Verschleierung
@@ -57,20 +55,19 @@ Knoten mit einer Verbindung zu den Gateways, kommen ins Internet
 
 
 ## Verschleierung
-* Nutzung eines VPN-Anbieters, verschleiert die Identit&auml;t
-* Grauzone, Nutzung des Dienstes legal, Verschleierung von Straftaten nicht legal, jedoch keine geplanten Straftaten
+Nutzung eines VPN-Anbieters, verschleiert die Identit&auml;t
+
+Grauzone, Nutzung des Dienstes legal, Verschleierung von Straftaten nicht legal, jedoch keine geplanten Straftaten
 
 ## Ausland
-* Nutzung eines VPN-Anbieters, Ausgangspunkt in einem Land, in welchem es die St&ouml;rerhaftung nicht gibt
-* Grauzone, Nutzung des Dienstes legal, **Umgehung** der St&ouml;rerhaftung, obwohl Nutzung aus Deutschland **= Umgehung** des deutschen Rechtes
+Nutzung eines VPN-Anbieters, Ausgangspunkt in einem Land, in welchem es die St&ouml;rerhaftung nicht gibt
+
+Grauzone, Nutzung des Dienstes legal, **Umgehung** der St&ouml;rerhaftung, obwohl Nutzung aus Deutschland **= Umgehung** des deutschen Rechtes
 
 
 # Providerprivileg
 ## Provider von St&ouml;rerhaftung frei
-darunter fallen:
-* Telekom
-* Vodafon
-* etc...
+darunter fallen Telekom, Vodafon, etc...
 
 > Diensteanbieter sind f&uuml;r fremde Informationen, die sie in einem Kommunikationsnetz &uuml;bermitteln oder zu denen sie den Zugang zur Nutzung vermitteln, nicht verantwortlich, sofern sie [...]
 
@@ -78,22 +75,20 @@ Quelle: [Telemediengesetz](http://www.gesetze-im-internet.de/tmg/index.html)
 
 
 # Providerstatus
-## &uuml;ber RIPE-Mitgliedschaft zu erlangen als:
-* Privatperson
-* Firma
-* Verein
+## &uuml;ber RIPE-Mitgliedschaft
+zu erlangen als Privatperson, Firma oder Verein
 
 ## basiert auf Auslegung
-* teilweise werden Freifunker von Gerichten schon direkt als Provider angesehen
-* in Zukunft evlt. im Gesetz verankert
+teilweise werden Freifunker von Gerichten schon jetzt direkt als Provider angesehen
+
+in Zukunft evlt. im Gesetz verankert
 
 
 # Fazit:
-## St&ouml;rerhaftung
-* Providerprivileg ist die bevorzugte L&ouml;sung
+## Providerprivileg ist die bevorzugte L&ouml;sung
 
 
-# nur Dienste aus der eigenen Community
+# nicht alle Dienste
 ## Problem:
 Im Bremer Freifunk-Netz kann ich nur Ger&auml;te und Dienste aus Bremen erreichen.
 
