@@ -12,6 +12,7 @@ aktuelles Protokoll &uuml;berlastet irgendwann, durch dauerhaftes Grundrauschen 
 * Firmware
 * Website
 * Promotionmaterial
+
 unbezahlt und nur in der Freizeit
 ## Kosten
 * teure Hardware f&uuml;r Richtfunkstrecken
@@ -25,5 +26,5 @@ als kostenloser ...
 * ... Hotspotanbieter
 
 ## Ausf&auml;lle fatal
-* alles lastet Schl&uuml;sselpersonen
+* alles lastet auf Schl&uuml;sselpersonen
 * F&auml;higkeiten und Aufgaben nicht genug verteilt
