@@ -1,5 +1,4 @@
-# Freifunk
-## generell
+# Was ist Freifunk?
 
 
 # Definition

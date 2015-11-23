@@ -59,21 +59,13 @@ Knoten mit einer Verbindung zu den Gateways, kommen ins Internet
 * Providerprivileg
 
 
-# Verschleierung
-* Nutzung eines VPN-Anbieters
-  * verschleiert die Identit&auml;t
-* Grauzone
-  * Nutzung des Dienstes legal
-  * Verschleierung von Straftaten nicht legal
-    * keine geplanten Straftaten
+## Verschleierung
+* Nutzung eines VPN-Anbieters, verschleiert die Identit&auml;t
+* Grauzone, Nutzung des Dienstes legal, Verschleierung von Straftaten nicht legal, jedoch keine geplanten Straftaten
 
-
-# Ausland
-* Nutzung eines VPN-Anbieters
-  * Ausgangspunkt in einem Land, in welchem es die St&ouml;rerhaftung nicht gibt
-* Grauzone
-  * Nutzung des Dienstes legal
-  * **Umgehung** der St&ouml;rerhaftung, obwohl Nutzung aus Deutschland **= Umgehung** des deutschen Rechtes
+## Ausland
+* Nutzung eines VPN-Anbieters, Ausgangspunkt in einem Land, in welchem es die St&ouml;rerhaftung nicht gibt
+* Grauzone, Nutzung des Dienstes legal, **Umgehung** der St&ouml;rerhaftung, obwohl Nutzung aus Deutschland **= Umgehung** des deutschen Rechtes
 
 
 # Providerprivileg
@@ -84,7 +76,6 @@ darunter fallen:
 * etc...
 
 Quelle: [Telemediengesetz](http://www.gesetze-im-internet.de/tmg/index.html)
-
 
 > Diensteanbieter sind f&uuml;r fremde Informationen, die sie in einem Kommunikationsnetz &uuml;bermitteln oder zu denen sie den Zugang zur Nutzung vermitteln, nicht verantwortlich, sofern sie [...]
 
@@ -97,8 +88,6 @@ Quelle: [Telemediengesetz](http://www.gesetze-im-internet.de/tmg/__8.html)
 * Firma
 * Verein
 
-
-# Providerstatus
 ## basiert auf Auslegung
 * teilweise werden Freifunker von Gerichten schon direkt als Provider angesehen
 * in Zukunft evlt. im Gesetz verankert

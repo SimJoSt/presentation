@@ -1,39 +1,53 @@
-# Einf&uuml;hrung in Freifunk
+# Freifunk
+## Ein selbstverwaltetes Netzwerk
 
 
 
-# &Uuml;berblick
-## &uuml;ber die Inhalte
+# &Uuml;bersicht
 
 
-# Freifunk generell
+# Was ist Freifunk?
 * Definition
 * Ursprung und Ziele
 * Prinzipien
 
 
-# Freifunk Bremen
-* Geschichte
-* Entwicklung
-
-
 # Begrifflichkeiten
 * Knoten / Nodes
-* Firmware
+* Clients
 * Links
+* Mesh
+* Firmware
 * Gateways
 * VPN-Verbindung
 * gluon
-* Mesh
+* Provider
+* Community
 
 
 # Funktionsweise
+* Netz
+* große F&auml;chen
+* fehlendes Internet
+* St&ouml;rerhaftung
+* nur Dienste aus der eigenen Community
+
+
+# Freifunk Bremen
+* kurze Geschichte
+* Form
+* aktuelle Daten
 
 
 # Technik
+* Firmware
+* Mesh-Protokoll
+* VPN-Verbindungen
+* InterCity-VPN
 
 
 # Herausforderungen
-* sozial
 * technisch
 * finanziell
+* sozial
+* Verst&auml;ndnis
