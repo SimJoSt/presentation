@@ -7,17 +7,23 @@ aktuelles Protokoll &uuml;berlastet irgendwann, durch dauerhaftes Grundrauschen 
 
 
 # finanziell
-### verdienstlose, zeitintensive Entwicklung von
+## Entwicklung von
 * Diensten
 * Firmware
 * Website
 * Promotionmaterial
-### teure Hardware f&uuml;r Richtfunkstrecken
-### Serverbetrieb
+unbezahlt und nur in der Freizeit
+## Kosten
+* teure Hardware f&uuml;r Richtfunkstrecken
+* Serverbetrieb
 
 
 # Verst&auml;ndnis
-### Freifunk oft missverstanden, als kostenloser ...
+## Freifunk oft missverstanden
+als kostenloser ...
 * ... Internetanbieter
 * ... Hotspotanbieter
-### Ausf&auml;lle von Schl&uuml;sselpersonen sind fatal
+
+## Ausf&auml;lle fatal
+* alles lastet Schl&uuml;sselpersonen
+* F&auml;higkeiten und Aufgaben nicht genug verteilt
