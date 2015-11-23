@@ -2,22 +2,18 @@
 
 
 # technisch
-* Netz kann nicht unbegrenzt weiterwachsen
-  * aktuelles Protokoll &uuml;berlastet irgendwann
+## Netz kann nicht unbegrenzt weiterwachsen
+aktuelles Protokoll &uuml;berlastet irgendwann, durch dauerhaftes Grundrauschen f&uuml;r die Organisation des Netzwerkes
 
 
 # finanziell
-* Entwicklung erfordert Zeit ohne Verdienst
-  * Dienste
-  * Firmware
-  * Website
-  * Promotionmaterial
-* teure Hardware f&uuml;r Richtfunkstrecken
-* Serverbetrieb
-
-
-# sozial
-* "teilen"-Einstellung muss sich verbreiten
+## verdienstlose, zeitintensive Entwicklung von
+* Diensten
+* Firmware
+* Website
+* Promotionmaterial
+## teure Hardware f&uuml;r Richtfunkstrecken
+## Serverbetrieb
 
 
 # Verst&auml;ndnis

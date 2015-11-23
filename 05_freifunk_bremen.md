@@ -23,7 +23,10 @@ erstes dokumentiertes Treffen am 20.12.2013
 * &uuml;ber 340 aktive Knoten; &uuml;ber 400 insgesamt
 * knapp 800 Clients
 * l&auml;ngster Link: 744m
-* 6 Gateways
+* 6 Gateways, mit teilweise
+  * direktem Internetanschluss
+  * Uplink &uuml; die Freifunk Vereien aus Berlin, Hamburg und Rheinland
+  * VPN-Verbindungen als Internetanbindung
 
 
 # Quellen:

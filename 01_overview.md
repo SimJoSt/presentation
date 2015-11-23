@@ -20,9 +20,9 @@
 * Firmware
 * Gateways
 * VPN-Verbindung
-* gluon
 * Provider
 * Community
+* Uplink
 
 
 # Funktionsweise
@@ -40,7 +40,7 @@
 
 
 # Technik
-* Firmware
+* gluon
 * Mesh-Protokoll
 * VPN-Verbindungen
 * InterCity-VPN
@@ -49,5 +49,4 @@
 # Herausforderungen
 * technisch
 * finanziell
-* sozial
 * Verst&auml;ndnis

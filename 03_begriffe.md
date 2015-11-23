@@ -4,13 +4,21 @@
 # Knoten / Nodes
 herk&ouml;mmliche WLAN-Router mit Freifunk-Firmware
 
+dem Router f&uuml;r das private WLAN (z. B. FritzBox) &auml;hnlich
+
 
 # Clients
-Nutzger&auml;te, welche mit dem Freifunk Netzwerk verbunden sind
+Nutzger&auml;te, welche mit dem Freifunk Netzwerk verbunden sind:
+* Smartphones
+* Tablets
+* Laptops
+* Computer
 
 
-# Links
-Verbindungen zwischen Knoten, meistens im Bezug auf Funk
+# Link
+Verbindungen zwischen 2 Knoten, meistens im Bezug auf (Richt-)Funk
+
+kann von 0 Metern bis mehrere Kilometer lang sein
 
 
 # Mesh
@@ -19,24 +27,23 @@ die Form in welcher die Knoten dezentral miteinander verbunden sind
 
 
 # Firmware
-Betriebssystem-Software f&uuml;r Ger&auml;te z. B. Router
+Betriebssystem-Software f&uuml;r Kleiner&auml;te
+
+in diesem Fall WLAN-Router
 
 
 # Gateways
-* Freifunk Server, oft auch VPN genannt
-* engl. f&uuml;r Zugang, Eingang, Durchgang
+Freifunk Server, oft auch VPN genannt
+
+engl. f&uuml;r Zugang, Eingang, Durchgang
 
 
 # VPN-Verbindung
 ### virtuelles Netzwerkkabel durch das Internet
 
-oft verschl&uuml;sselt, nicht nur im Internet m&ouml;glich
+oft verschl&uuml;sselt, um Privatesphäre zu waren
 
-
-# gluon
-* die Software, auf welcher die Bremer Firmware basiert
-* haupts&auml;chlich in L&uuml;beck entwickelt
-* baut auf OpenWRT auf
+oft durch das Internet, jedoch zwischen 2 beliebigen Computern m&ouml;glich
 
 
 # Provider
@@ -48,3 +55,9 @@ Quelle: [Telemediengesetz](http://www.gesetze-im-internet.de/tmg/__2.html)
 
 # Community
 bezeichnet die lokale Freifunk Gemeinschaft
+
+
+# Uplink
+Anbindung an das Internet
+
+ermöglicht das Aufrufen von Inhalten aus dem Internet
