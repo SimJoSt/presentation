@@ -42,7 +42,7 @@ oft auch VPN genannt
 
 # VPN-Verbindung
 ### virtuelles Netzwerkkabel durch das Internet
-oft verschl&uuml;sselt, um Privatesph&auml;re zu waren
+oft verschl&uuml;sselt, um Privatsph&auml;re zu wahren
 
 oft durch das Internet, jedoch zwischen 2 beliebigen Computern m&ouml;glich
 
