@@ -21,9 +21,9 @@ unbezahlt und nur in der Freizeit
 
 # Verständnis
 ## Freifunk oft missverstanden
-als kostenloser ...
-* ... Internetanbieter
-* ... Hotspotanbieter
+als kostenloser …
+* … Internetanbieter
+* … Hotspotanbieter
 
 ## Ausfälle fatal
 * alles lastet auf Schlüsselpersonen
