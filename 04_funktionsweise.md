@@ -69,19 +69,19 @@ Grauzone, Nutzung des Dienstes legal, **Umgehung** der Störerhaftung, obwohl Nu
 
 # Providerprivileg
 ## Provider von Störerhaftung frei
-darunter fallen Telekom, Vodafon, etc...
+darunter fallen Telekom, Vodafon, …
 
-> Diensteanbieter sind für fremde Informationen, die sie in einem Kommunikationsnetz übermitteln oder zu denen sie den Zugang zur Nutzung vermitteln, nicht verantwortlich, sofern sie [...]
+> Diensteanbieter sind für fremde Informationen, die sie in einem Kommunikationsnetz übermitteln oder zu denen sie den Zugang zur Nutzung vermitteln, nicht verantwortlich, sofern sie […]
 
 Quelle: [Telemediengesetz](http://www.gesetze-im-internet.de/tmg/index.html)
 
 
 # Providerpflicht
 ## Provider müssen protokollieren
-Die Vorratsdatenspeicherung...
+Die Vorratsdatenspeicherung …
 
-* ...ist für Freifunk-Netze nicht umsetzbar, da „Kunden“ nicht bekannt sind.
-* ...widerspricht ferner dem Datenschutzverständnis des Freifunk-Projekts.
+* … ist für Freifunk-Netze nicht umsetzbar, da „Kunden“ nicht bekannt sind.
+* … widerspricht ferner dem Datenschutzverständnis des Freifunk-Projekts.
 
 
 # Providerstatus

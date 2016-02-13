@@ -30,17 +30,17 @@ erweiterbar, solange diese 3 nicht verletzt werden
 
 
 # vorweg:
-## Freifunk ist kein kostenloser ...
-* ... Internetanbieter
-* ... Hotspotanbieter
-## und nicht ...
-* ... kommerziell
-* ... gewinnorientiert
+## Freifunk ist kein kostenloser …
+* … Internetanbieter
+* … Hotspotanbieter
+## und nicht …
+* … kommerziell
+* … gewinnorientiert
 
 
-# Freifunk ist ...
-* ... eine Gemeinschaft
-* ... ein offenes Netzwerk
-* ... gemeinnützig
-* ... freiwillig
-* ... ehrenamtlich
+# Freifunk ist …
+* … eine Gemeinschaft
+* … ein offenes Netzwerk
+* … gemeinnützig
+* … freiwillig
+* … ehrenamtlich
