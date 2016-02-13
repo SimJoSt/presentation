@@ -3,13 +3,13 @@
 
 # Knoten
 ## engl. Nodes
-herk&ouml;mmliche WLAN-Router mit Freifunk-Firmware
+herkömmliche WLAN-Router mit Freifunk-Firmware
 
-dem Router f&uuml;r das private WLAN (z. B. FritzBox) &auml;hnlich
+dem Router für das private WLAN (z. B. FritzBox) ähnlich
 
 
 # Clients
-## Nutzger&auml;te, welche mit dem Freifunk Netzwerk verbunden sind:
+## Nutzgeräte, welche mit dem Freifunk Netzwerk verbunden sind:
 * Smartphones
 * Tablets
 * Laptops
@@ -24,17 +24,17 @@ kann von 0 Metern bis mehrere Kilometer lang sein
 
 
 # Mesh
-## engl. f&uuml;r Maschennetz
+## engl. für Maschennetz
 die Form in welcher die Knoten dezentral miteinander verbunden sind
 
 
 # Firmware
-## Betriebssystem-Software f&uuml;r Kleiner&auml;te
+## Betriebssystem-Software für Kleineräte
 in diesem Fall WLAN-Router
 
 
 # Gateways
-## engl. f&uuml;r Zugang, Eingang, Durchgang
+## engl. für Zugang, Eingang, Durchgang
 Freifunk Server
 
 oft auch VPN genannt
@@ -42,14 +42,14 @@ oft auch VPN genannt
 
 # VPN-Verbindung
 ### virtuelles Netzwerkkabel durch das Internet
-oft verschl&uuml;sselt, um Privatsph&auml;re zu wahren
+oft verschlüsselt, um Privatsphäre zu wahren
 
-oft durch das Internet, jedoch zwischen 2 beliebigen Computern m&ouml;glich
+oft durch das Internet, jedoch zwischen 2 beliebigen Computern möglich
 
 
 # Provider
-## engl. f&uuml;r Diensteanbieter
-> Diensteanbieter [ist] jede nat&uuml;rliche oder juristische Person, die eigene oder fremde Telemedien zur Nutzung bereith&auml;lt oder den Zugang zur Nutzung vermittelt;
+## engl. für Diensteanbieter
+> Diensteanbieter [ist] jede natürliche oder juristische Person, die eigene oder fremde Telemedien zur Nutzung bereithält oder den Zugang zur Nutzung vermittelt;
 
 Quelle: [Telemediengesetz](http://www.gesetze-im-internet.de/tmg/__2.html)
 
@@ -60,4 +60,4 @@ Quelle: [Telemediengesetz](http://www.gesetze-im-internet.de/tmg/__2.html)
 
 # Uplink
 ## Anbindung an das Internet
-erm&ouml;glicht das Aufrufen von Inhalten aus dem Internet
+ermöglicht das Aufrufen von Inhalten aus dem Internet

@@ -3,7 +3,7 @@
 
 # technisch
 ## Netz kann nicht unbegrenzt weiterwachsen
-aktuelles Protokoll &uuml;berlastet irgendwann, durch dauerhaftes Grundrauschen f&uuml;r die Organisation des Netzwerkes
+aktuelles Protokoll überlastet irgendwann, durch dauerhaftes Grundrauschen für die Organisation des Netzwerkes
 
 
 # finanziell
@@ -15,16 +15,16 @@ aktuelles Protokoll &uuml;berlastet irgendwann, durch dauerhaftes Grundrauschen 
 
 unbezahlt und nur in der Freizeit
 ## Kosten
-* teure Hardware f&uuml;r Richtfunkstrecken
+* teure Hardware für Richtfunkstrecken
 * Serverbetrieb
 
 
-# Verst&auml;ndnis
+# Verständnis
 ## Freifunk oft missverstanden
 als kostenloser ...
 * ... Internetanbieter
 * ... Hotspotanbieter
 
-## Ausf&auml;lle fatal
-* alles lastet auf Schl&uuml;sselpersonen
-* F&auml;higkeiten und Aufgaben nicht genug verteilt
+## Ausfälle fatal
+* alles lastet auf Schlüsselpersonen
+* Fähigkeiten und Aufgaben nicht genug verteilt

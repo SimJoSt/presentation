@@ -8,13 +8,13 @@
 
 
 # Ursprung und Ziele
-> Im deutschen Sprachraum hat die Initiative ihren Ursprung in Berlin. Ziele sind ein hoher Grad an Zensurresistenz, eine F&ouml;rderung lokaler Kommunikation, ein m&ouml;glichst dezentraler Aufbau, Anonymit&auml;t und &Uuml;berwachungsfreiheit.
+> Im deutschen Sprachraum hat die Initiative ihren Ursprung in Berlin. Ziele sind ein hoher Grad an Zensurresistenz, eine Förderung lokaler Kommunikation, ein möglichst dezentraler Aufbau, Anonymität und überwachungsfreiheit.
 
 ###### Quelle: [Wikipedia/Freifunk](https://de.wikipedia.org/wiki/Freifunk)
 
 
 # Prinzipien
-> Freifunk baut auf dem Pico Peering Agreement auf, das f&uuml;r ein diskriminierungsfreies Netzwerk sorgen soll (siehe Netzneutralit&auml;t). Neben dem Aufbau des Netzes m&ouml;chten die Freifunker auch ein Medium bieten, um die technische Bildung zu f&ouml;rdern.
+> Freifunk baut auf dem Pico Peering Agreement auf, das für ein diskriminierungsfreies Netzwerk sorgen soll (siehe Netzneutralität). Neben dem Aufbau des Netzes möchten die Freifunker auch ein Medium bieten, um die technische Bildung zu fördern.
 
 ###### Quelle: [Wikipedia/Freifunk](https://de.wikipedia.org/wiki/Freifunk)
 
@@ -41,6 +41,6 @@ erweiterbar, solange diese 3 nicht verletzt werden
 # Freifunk ist ...
 * ... eine Gemeinschaft
 * ... ein offenes Netzwerk
-* ... gemeinn&uuml;tzig
+* ... gemeinnützig
 * ... freiwillig
 * ... ehrenamtlich
