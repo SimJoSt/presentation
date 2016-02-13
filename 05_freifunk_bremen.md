@@ -16,16 +16,16 @@ erstes dokumentiertes Treffen am 20.12.2013
 # Form
 * noch kein Verein
 * loser Zusammenschluss von Aktiven
-* offen f&uuml;r jeden
+* offen für jeden
 
 
 # aktuelle Daten
-* &uuml;ber 340 aktive Knoten; &uuml;ber 400 insgesamt
+* über 340 aktive Knoten; über 400 insgesamt
 * knapp 800 Clients
-* l&auml;ngster Link: 744m
+* längster Link: 744m
 * 6 Gateways, mit teilweise
   * direktem Internetanschluss
-  * Uplink &uuml; die Freifunk Vereien aus Berlin, Hamburg und Rheinland
+  * Uplink ü die Freifunk Vereien aus Berlin, Hamburg und Rheinland
   * VPN-Verbindungen als Internetanbindung
 
 

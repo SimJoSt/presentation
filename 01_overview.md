@@ -3,7 +3,7 @@
 
 
 
-# &Uuml;bersicht
+# übersicht
 
 
 # Was ist Freifunk?
@@ -27,9 +27,9 @@
 
 # Funktionsweise
 * Netz
-* gro&szlig;e F&auml;chen
+* große Fächen
 * fehlendes Internet
-* St&ouml;rerhaftung
+* Störerhaftung
 * nicht alle Dienste
 
 
@@ -49,4 +49,4 @@
 # Herausforderungen
 * technisch
 * finanziell
-* Verst&auml;ndnis
+* Verständnis

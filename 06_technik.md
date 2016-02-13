@@ -4,23 +4,23 @@
 # gluon
 die Software, auf welcher die Bremer Firmware basiert
 
-haupts&auml;chlich in L&uuml;beck entwickelt
+hauptsächlich in Lübeck entwickelt
 
-baut auf OpenWRT auf, ein Linux f&uuml;r Kleinger&auml;te
+baut auf OpenWRT auf, ein Linux für Kleingeräte
 
 
 # Mesh-Protokoll
 ## gluon nutzt B.A.T.M.A.N.
-daf&uuml;r zust&auml;ndig, dass alle Knoten wissen, wohin Daten auf welchem Wege &uuml;bertragen werden m&uuml;ssen
+dafür zuständig, dass alle Knoten wissen, wohin Daten auf welchem Wege übertragen werden müssen
 
 
 # VPN-Verbindungen
 ## Verbindung zu Gateways mit fastd
-**fastd** ist ein ressourcensparendes VPN-Protkoll, welches die Knoten trotz schwacher CPU nicht &uuml;berm&auml;&szlig;ig belastet
+**fastd** ist ein ressourcensparendes VPN-Protkoll, welches die Knoten trotz schwacher CPU nicht übermäßig belastet
 
 
 # InterCity-VPN
 ## tinc verbindet alle Communities
 **tinc** ist ein weiteres VPN-Protokoll
 
-&uuml;ber eine Liste von Gegenstellen verbindet es sich automatisch mit allen Communities
+über eine Liste von Gegenstellen verbindet es sich automatisch mit allen Communities
