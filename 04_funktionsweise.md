@@ -76,6 +76,14 @@ darunter fallen Telekom, Vodafon, etc...
 Quelle: [Telemediengesetz](http://www.gesetze-im-internet.de/tmg/index.html)
 
 
+# Providerpflicht
+## Provider m&uuml;ssen protokollieren
+Die Vorratsdatenspeicherung...
+
+* ...ist f&uuml;r Freifunk-Netze nicht umsetzbar, da "Kunden" nicht bekannt sind.
+* ...widerspricht ferner dem Datenschutzverst&auml;ndnis des Freifunk-Projekts.
+
+
 # Providerstatus
 ## &uuml;ber RIPE-Mitgliedschaft
 zu erlangen als Privatperson, Firma oder Verein
