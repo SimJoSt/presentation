@@ -8,7 +8,7 @@
 
 
 # Ursprung und Ziele
-> Im deutschen Sprachraum hat die Initiative ihren Ursprung in Berlin. Ziele sind ein hoher Grad an Zensurresistenz, eine Förderung lokaler Kommunikation, ein möglichst dezentraler Aufbau, Anonymität und überwachungsfreiheit.
+> Im deutschen Sprachraum hat die Initiative ihren Ursprung in Berlin. Ziele sind ein hoher Grad an Zensurresistenz, eine Förderung lokaler Kommunikation, ein möglichst dezentraler Aufbau, Anonymität und Überwachungsfreiheit.
 
 ###### Quelle: [Wikipedia/Freifunk](https://de.wikipedia.org/wiki/Freifunk)
 
