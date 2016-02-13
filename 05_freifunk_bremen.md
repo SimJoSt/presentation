@@ -20,12 +20,13 @@ erstes dokumentiertes Treffen am 20.12.2013
 
 
 # aktuelle Daten
-* über 340 aktive Knoten; über 400 insgesamt
-* knapp 800 Clients
+## (Stand: Feb. 2016)
+* über 400 aktive Knoten; über 450 insgesamt
+* zwischen 700 und 1400 Clients (je nach Tageszeit)
 * längster Link: 744m
 * 6 Gateways, mit teilweise
   * direktem Internetanschluss
-  * Uplink ü die Freifunk Vereien aus Berlin, Hamburg und Rheinland
+  * Uplink über die Freifunk Vereien aus Berlin, Hamburg und Rheinland
   * VPN-Verbindungen als Internetanbindung
 
 
