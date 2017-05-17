@@ -4,9 +4,8 @@
 # gluon
 die Software, auf welcher die Bremer Firmware basiert
 
-hauptsächlich in Lübeck entwickelt
-
-baut auf OpenWRT auf, ein Linux für Kleingeräte
+hauptsächlich in Lübeck entwickelt  
+baut auf OpenWRT/LEDE auf, ein Linux für Kleingeräte
 
 
 # Mesh-Protokoll

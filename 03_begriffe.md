@@ -1,4 +1,4 @@
-# Begrifflichkeiten
+# Glossar
 
 
 # Knoten

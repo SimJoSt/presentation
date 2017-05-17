@@ -3,28 +3,33 @@
 
 # technisch
 ## Netz kann nicht unbegrenzt weiterwachsen
-aktuelles Protokoll überlastet irgendwann, durch dauerhaftes Grundrauschen für die Organisation des Netzwerkes
+aktuelles Protokoll ist irgendwann überlastet, durch dauerhaftes Grundrauschen für die Organisation des Netzwerkes
 
 
 # finanziell
-## Entwicklung von
-* Diensten
+### Entwicklung von
 * Firmware
 * Website
 * Promotionmaterial
 
 unbezahlt und nur in der Freizeit
-## Kosten
+### Kosten
 * teure Hardware für Richtfunkstrecken
 * Serverbetrieb
 
 
-# Verständnis
-## Freifunk oft missverstanden
-als kostenloser …
-* … Internetanbieter
-* … Hotspotanbieter
+# fehlende Dienste
+* Freifunk ist mehr als nur das Internet
+* außer dem Netz-Aufbau kaum anders
+* Dienste für Nutzer noch nicht präsent
 
-## Ausfälle fatal
+
+# Verständnis
+### Freifunk oft missverstanden
+als kostenloser …
+* Internetanbieter
+* Hotspotanbieter
+
+### Ausfälle generell fatal
 * alles lastet auf Schlüsselpersonen
 * Fähigkeiten und Aufgaben nicht genug verteilt

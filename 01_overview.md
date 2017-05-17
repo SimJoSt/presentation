@@ -1,5 +1,6 @@
 # Freifunk
-## Ein selbstverwaltetes Netzwerk
+### Daten-Netz für und von Bürgern
+auf WLAN-Basis
 
 
 

@@ -1,6 +1,16 @@
 # Was ist Freifunk?
 
 
+# für die meisten
+## Nutzer
+* "kostenloses" WLAN
+* Zugang zum Internet
+## Betreiber
+* sicheres Anbieten von Internet
+* für Gäste, Passanten, Kunden,  
+  Freunde und Nachbarn
+
+
 # Definition
 > Freifunk ist eine nichtkommerzielle Initiative, die sich dem Aufbau und Betrieb eines freien Funknetzes, das aus selbstverwalteten lokalen Computernetzwerken besteht, widmet.
 
@@ -29,18 +39,23 @@ erweiterbar, solange diese 3 nicht verletzt werden
 ###### Quelle: [picopeer.net](http://www.picopeer.net/PPA-de.shtml)
 
 
-# vorweg:
-## Freifunk ist kein kostenloser …
-* … Internetanbieter
-* … Hotspotanbieter
-## und nicht …
-* … kommerziell
-* … gewinnorientiert
+# Freifunk ist …
+## kein kostenloser …
+* Internetanbieter
+* Hotspotanbieter
+## nicht …
+* kommerziell
+* gewinnorientiert
 
 
 # Freifunk ist …
-* … eine Gemeinschaft
-* … ein offenes Netzwerk
-* … gemeinnützig
-* … freiwillig
-* … ehrenamtlich
+* eine Gemeinschaft
+* ein offenes Daten-Netz
+* gemeinnützig
+* freiwillig
+
+
+# Freifunk wird …
+* finanziert aus Spenden
+* aufgebaut aus Begeisterung
+* betrieben von Ehrenamtlichen
