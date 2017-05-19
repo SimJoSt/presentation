@@ -1,6 +1,6 @@
-# Freifunk15
+# Freifunk
 ### Daten-Netz für und von Bürgern
-auf WLAN-Basi
+auf WLAN-Basis
 
 
 
